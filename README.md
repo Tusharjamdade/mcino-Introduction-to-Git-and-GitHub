@@ -8,6 +8,10 @@ The script asks the user to enter:
 - Rate of interest
 - Time period
 
-It then calculates the **simple interest using the formula:**
+It calculates simple interest using the formula:
 
-SI = (Principal × Rate × Time) / 100
+Simple Interest = (Principal × Rate × Time) / 100
+
+The script file included in this repository:
+
+simple-interest.sh
